@@ -1,6 +1,6 @@
 package sample;
 
-import javax.sql.rowset.spi.SyncFactory;
+//import javax.sql.rowset.spi.SyncFactory;
 
 public class Test {
     
